@@ -39,7 +39,6 @@ apis:
   - name: Open Government, Mexico
     description: "Mexican Statistical Government Open Data"
     humanURL: https://www.inegi.org.mx/datos/
-    baseURL: https://www.inegi.org.mx/datos/
     tags:
       - Government
     properties:
